@@ -6,11 +6,12 @@
 
 This repository contains all the graphic materials to tag and classify open source project made at [SoftButterfly]
 
-Check our usage guidelines on [`USAGE.md`](USAGE)
+Check our usage guidelines on [USAGE.md] and the available materials on [CATALOG.md].
 
 Sugestions and contributions are welcome!
 
 > Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
 [SoftButterfly]: https://softbutterfly.io/
-[USAGE]: USAGE.md
+[USAGE.md]: USAGE.md
+[CATALOG.md]: CATALOG.md
