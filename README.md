@@ -6,7 +6,7 @@
 
 This repository contains all the graphic materials to tag and classify open source project made at [SoftButterfly]
 
-Check our usage guidelines on [USAGE.md] and the available materials on [CATALOG.md].
+Check our usage guidelines on [USAGE.md] and the available categories on [CATEGORIES.md].
 
 Sugestions and contributions are welcome!
 
