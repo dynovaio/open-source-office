@@ -20,5 +20,5 @@ This project is licensed under the terms of the [BSD-3-Clause] license.
 
 [Dynova]: https://softbutterfly.io/
 [USAGE.md]: USAGE.md
-[CATALOG.md]: CATALOG.md
+[CATEGORIES.md]: CATEGORIES.md
 [BSD-3-Clause]: LICENSE.txt
