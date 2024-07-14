@@ -1,10 +1,10 @@
-# Soft**Butterfly** Open Source Projects Categories and `README` requirements
+# **Dynova** Open Source Projects Categories and `README` requirements
 
-This document provides the details on the Soft**Butterfly** open source projects categories and README requirements, including the markdown snippet that should be pasted into the top of a given README.md file.
+This document provides the details on the **Dynova** open source projects categories and README requirements, including the markdown snippet that should be pasted into the top of a given README.md file.
 
 ## Categories
 
-Every public repository in the Soft**Butterfly** Open Source GitLab group must leverage one of the following categories.
+Every public repository in the **Dynova** Open Source GitLab group must leverage one of the following categories.
 
 - Community project
 - Fork
