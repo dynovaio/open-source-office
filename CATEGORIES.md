@@ -21,7 +21,7 @@ Every public repository in the **Dynova** Open Source GitLab group must leverage
 **Required:** Copy and paste the following into the **top** of your project's README.
 
 ```md
-![Community-Project](https://gitlab.com/softbutterfly/open-source/open-source-office/-/raw/master/banners/softbutterfly-open-source--banner--community-project.png)
+![Community-Project](https://gitlab.com/softbutterfly/open-source/open-source-office/-/raw/master/assets/dynova/softbutterfly-open-source--banner--community-project.png)
 ```
 
 ## Category [Fork](#fork)
@@ -75,7 +75,7 @@ Every public repository in the **Dynova** Open Source GitLab group must leverage
 
 
 [Archived]: https://gitlab.com/softbutterfly/open-source/open-source-office/-/raw/master/banners/softbutterfly-open-source--banner--archived.png
-[Community-Project]: https://gitlab.com/softbutterfly/open-source/open-source-office/-/raw/master/banners/softbutterfly-open-source--banner--community-project.png
+[Community-Project]: https://gitlab.com/softbutterfly/open-source/open-source-office/-/raw/master/assets/dynova/softbutterfly-open-source--banner--community-project.png
 [Experimental]: https://gitlab.com/softbutterfly/open-source/open-source-office/-/raw/master/banners/softbutterfly-open-source--banner--experimental.png
 [Fork]: https://gitlab.com/softbutterfly/open-source/open-source-office/-/raw/master/banners/softbutterfly-open-source--banner--fork.png
 [Sample-Code]: https://gitlab.com/softbutterfly/open-source/open-source-office/-/raw/master/banners/softbutterfly-open-source--banner--sample-code.png
